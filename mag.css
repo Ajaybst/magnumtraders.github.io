@@ -1,0 +1,45 @@
+#nava {
+  font-size: 26px;
+}
+#nava a {
+  margin-right: 12px;
+}
+.ajay {
+  font-size: 30px;
+}
+.image-first-slider {
+  height: 500px;
+  width: 100%;
+}
+#ajaymehra {
+  height: 350px;
+}
+.computer-image {
+  height: 70%;
+}
+.banner {
+  background: rgb(204, 181, 181);
+}
+.col-12 h2 {
+  color: red;
+  margin-top: 10px;
+}
+.perspective {
+  background-color: rgb(241, 225, 235);
+}
+.perspective-card {
+  margin-bottom: 10px;
+}
+.perspective-head {
+  border-bottom: 2px solid rgb(162, 162, 177);
+}
+#section {
+  background-color: rgb(245, 150, 150);
+}
+
+a {
+  display: block;
+}
+li {
+  list-style: none;
+}
